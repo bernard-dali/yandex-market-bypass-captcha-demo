@@ -1,0 +1,27 @@
+{
+  "name": "yandex-market-bypass-captcha",
+  "version": "1.0.0",
+  "description": "Demonstration of solving Yandex coordinate captcha using Puppeteer. The captcha is solved using the 2captcha coordinate method.",
+  "keywords": [
+    "yandex",
+    "captcha",
+    "2captcha",
+    "rucaptcha",
+    "captcha",
+    "coordinates",
+    "click,",
+    "bypass",
+    "solve"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2captcha-ts": "^2.3.3",
+    "puppeteer": "^22.10.0"
+  }
+}
