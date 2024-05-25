@@ -17,7 +17,7 @@ Program algorithm:
 4. Run `npm run start`
 
 ### Video:
-[![video](./media/cover.png)](./media/Yandex-Captcha-Video-Bypass.mp4)
+[![video](./media/cover.png)](https://github.com/bernard-dali/yandex-market-bypass-captcha-demo/raw/main/media/Yandex-Captcha-Video-Bypass.mp4)
 
 #### Planned features:
 - [ ] Checking if the captcha is updated on the page
