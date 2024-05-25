@@ -16,7 +16,7 @@
 4. Запуск `npm run start`
 
 ### Видео:
-[![video](./media/cover.png)](./media/Yandex-Captcha-Video-Bypass.mp4)
+[![video](./media/cover.png)](https://github.com/bernard-dali/yandex-market-bypass-captcha-demo/raw/main/media/Yandex-Captcha-Video-Bypass.mp4)
 
 #### Планируемые особенности:
 - [ ] Проверка обновления капчи на странице
