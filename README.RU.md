@@ -1,3 +1,4 @@
+![image](./media/image.png)
 # Демонстрация решения координатной капчи Яндекс с помощью Puppeteer 
 
 Пример наглядно демонстрирует конценцию решения капчи Yandex с посмощью [координатного метода](https://2captcha.com/2captcha-api#coordinates?from=22771395). Капча решается с помощью JavaScript библиотеки Puppeteer. Решение капчи происходит в сервисе [2captcha.com](https://2captcha.com/?from=22771395)
@@ -16,7 +17,7 @@
 4. Запуск `npm run start`
 
 ### Видео:
-[![video](./media/cover.png)](https://github.com/bernard-dali/yandex-market-bypass-captcha-demo/raw/main/media/Yandex-Captcha-Video-Bypass.mp4)
+[Yandex-Captcha-Video-Bypass.mp4](https://github.com/bernard-dali/yandex-market-bypass-captcha-demo/raw/main/media/Yandex-Captcha-Video-Bypass.mp4)
 
 #### Планируемые особенности:
 - [ ] Проверка обновления капчи на странице

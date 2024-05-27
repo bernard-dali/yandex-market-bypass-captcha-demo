@@ -1,3 +1,5 @@
+![image](./media/image.png)
+
 # Demonstration of solving Yandex coordinate captcha using Puppeteer 
 
 The example clearly demonstrates the concentration of Yandex captcha solution using the [coordinate method](https://2captcha.com/2captcha-api#coordinates?from=22771395). The captcha is solved using JavaScript library Puppeteer. The captcha is solved in the [2captcha.com](https://2captcha.com/?from=22771395) service.
@@ -17,7 +19,7 @@ Program algorithm:
 4. Run `npm run start`
 
 ### Video:
-[![video](./media/cover.png)](https://github.com/bernard-dali/yandex-market-bypass-captcha-demo/raw/main/media/Yandex-Captcha-Video-Bypass.mp4)
+[Yandex-Captcha-Video-Bypass.mp4](https://github.com/bernard-dali/yandex-market-bypass-captcha-demo/raw/main/media/Yandex-Captcha-Video-Bypass.mp4)
 
 #### Planned features:
 - [ ] Checking if the captcha is updated on the page
